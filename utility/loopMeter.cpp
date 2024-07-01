@@ -1,5 +1,5 @@
 #include "loopMeter.h"
-#include "easylog.h"
+#include "easyLog.h"
 
 loopMeter::loopMeter(uint32_t period)
 {

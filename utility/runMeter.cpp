@@ -1,5 +1,5 @@
 #include "runMeter.h"
-#include "easylog.h"
+#include "easyLog.h"
 
 runMeter::runMeter(runable &item, const char *name, uint32_t period) :
   monitored(&item),
